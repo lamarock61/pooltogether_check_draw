@@ -1,2 +1,2 @@
 # pooltogether_check_draw
-Check your pooltogether and receive a mail notification
+Check your pooltogether account and receive a mail notification
